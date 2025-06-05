@@ -16,7 +16,7 @@ const CoursesComp = () => {
       </div>
 
       {/* Courses Section */}
-      <div className="bg-orange-50 py-10">
+      <div className="bg-orange-100 py-10">
         <h3 className="text-center text-2xl font-bold mb-8 text-orange-600">
           Our Specialized Digital Courses
         </h3>
