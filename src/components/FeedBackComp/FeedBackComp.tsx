@@ -24,7 +24,7 @@ const FeedBackComp = () => {
               "This course helped me understand digital marketing from scratch.
               Now I’m confident to freelance."
             </div>
-            <div className="font-bold mt-2 text-orange-600">- Ayesha Das</div>
+            <div className="font-bold mt-2 text-orange-600">- Rakesh Mondal</div>
           </div>
 
           {/* Card 2 */}
@@ -41,7 +41,7 @@ const FeedBackComp = () => {
               Thank you for the guidance!"
             </div>
             <div className="font-bold mt-2 text-orange-600">
-              - Rakesh Mondal
+              - Ayesha Das
             </div>
           </div>
 
